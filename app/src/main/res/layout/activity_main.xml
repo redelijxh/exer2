@@ -8,6 +8,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+
     <TextView
         android:id="@+id/title"
         android:layout_width="match_parent"
@@ -20,7 +21,7 @@
     <ImageView
         android:id="@+id/championRoller"
         android:layout_width="match_parent"
-        android:layout_height="444dp"
+        android:layout_height="330dp"
         android:contentDescription="@string/champ_roller"
         app:srcCompat="@drawable/logo" />
 
@@ -41,10 +42,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <LinearLayout
+
+        <TextView
+            android:id="@+id/descrip"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical" />
+            android:text="@string/default_descrip"
+            android:textAlignment="center" />
     </ScrollView>
 
 </LinearLayout>

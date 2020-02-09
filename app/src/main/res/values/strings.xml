@@ -2,7 +2,8 @@
     <string name="app_name">exer2_munoz_b6l</string>
     <string name="retry_button">Retry</string>
     <string name="start_button">Start</string>
-    <string name="header">Which champion are you?</string>
+    <string name="header">Which champion you should play?</string>
+    <string name="header_rolled">You should play..</string>
     <string name="champ_roller">champ roll</string>
     <string name="aphelios">Aphelios\n</string>
     <string name="caitlyn">Caitlyn\n</string>
@@ -14,6 +15,18 @@
     <string name="sett">Sett\n</string>
     <string name="soraka">Soraka\n</string>
     <string name="vayne">Vayne\n</string>
+    <string name="default_descrip">Find out which champion you should play next.</string>
+    <string name="descrip_aphelios">APHELIOS. Emerging from moonlight\'s shadow with weapons drawn, Aphelios kills the enemies of his faith in brooding silence—speaking only through the certainty of his aim, and the firing of each gun. Though fueled by a poison that renders him mute, he is guided by his sister Alune in her distant temple sanctuary from where she pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead, Aphelios will never be alone.\n</string>
+    <string name="descrip_caitlyn">CAITLYN. Renowned as its finest peacekeeper, Caitlyn is also Piltover\'s best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner\'s more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn\'s most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress.\n</string>
+    <string name="descrip_darius">DARIUS. There is no greater symbol of Noxian might than Darius, the nation\'s most feared and battle-hardened leader. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire\'s enemies—many of them Noxians themselves. Knowing that he never doubts his cause is just, and never hesitates once his axe is raised, those who stand against the commander of the Trifarian Legion can expect no mercy.\n</string>
+    <string name="descrip_ekko">EKKO. A prodigy from the rough streets of Zaun, Ekko manipulates Chronobreak time to twist any situation to his advantage. Using his own invention, the Z-Drive, he explores the branching possibilities of reality to craft the perfect moment. Though he revels in this freedom, when there’s a threat to his friends, he’ll do anything to defend them. To outsiders, Ekko seems to achieve the impossible the first time, every time.\n</string>
+    <string name="descrip_kayle">KAYLE. Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother’s legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years—until Kayle became disillusioned with the repeated failings of mortals, and abandoned this realm altogether. Still, legends are told of her punishing the unjust with her fiery swords, and many hope that she will one day return…\n</string>
+    <string name="descrip_morgana">MORGANA. Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from the shadows of Demacia—even as others seek to repress it—by casting shields and chains of dark fire. More than anything else, Morgana truly believes that even the banished and outcast may one day rise again.\n</string>
+    <string name="descrip_senna">SENNA. Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.\n</string>
+    <string name="descrip_sett">SETT. A leader of Ionia\'s growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to take seemingly endless amounts of punishment. After fighting his way through the ranks of local combatants, Sett muscled to the top, seizing control of the pits he once fought in.\n</string>
+    <string name="descrip_soraka">SORAKA. A wanderer from the celestial dimensions beyond Mount Targon, Soraka gave up her immortality to protect the mortal races from their own more violent instincts. She endeavors to spread the virtues of compassion and mercy to everyone she meets—even healing those who would wish harm upon her. And, for all Soraka has seen of this world\'s struggles, she still believes the people of Runeterra have yet to reach their full potential.\n</string>
+    <string name="descrip_vayne">VAYNE. Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts.\n</string>
+
 
 
 </resources>
