@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">exer2_munoz_b6l</string>
+    <string name="retry_button">Retry</string>
+    <string name="start_button">Start</string>
+    <string name="header">Which champion are you?</string>
+    <string name="champ_roller">champ roll</string>
+    <string name="aphelios">Aphelios\n</string>
+    <string name="caitlyn">Caitlyn\n</string>
+    <string name="darius">Darius\n</string>
+    <string name="Ekko">Ekko\n</string>
+    <string name="kayle">Kayle\n</string>
+    <string name="morgana">Morgana\n</string>
+    <string name="senna">Senna\n</string>
+    <string name="sett">Sett\n</string>
+    <string name="soraka">Soraka\n</string>
+    <string name="vayne">Vayne\n</string>
+
+
+</resources>
